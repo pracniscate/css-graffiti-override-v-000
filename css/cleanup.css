@@ -21,6 +21,7 @@ div#wall div.parent #tag-5.slick {
   display: none;
 }
 
+/* get rid of the last two with immediate children selector */
 #wall div.parent > div {
   display: none;
 }
